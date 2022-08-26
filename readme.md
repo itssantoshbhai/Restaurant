@@ -3,7 +3,7 @@
 ## This is Project-2
 
 Live Link 🔗
-https://interior-work-10.netlify.app/
+https://restaurant-front-page.netlify.app/
 
 ## SNAP
 
