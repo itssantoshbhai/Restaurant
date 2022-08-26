@@ -1,0 +1,69 @@
+
+
+.hero_image{
+  background: rgba(0, 0, 0, 0.7) url(./assets/pexels-maxyne-barcel-10402282\ 1.png) no-repeat;
+  background-size: cover;
+  height: 1250px;
+  width: 2700px;
+  position: relative;
+  background-blend-mode: darken;
+}
+.list{
+position: absolute;
+  margin-top: -50px;
+  margin-left: 900px;
+  font-size: 20px;
+  display: grid;
+  grid-template-columns: 240px 200px 200px 200px 200px;
+  list-style-type: none;
+  color: orange;
+  font-size: 40px;
+}
+.button-small{
+  height: 100px;
+  width: 230px;
+ font-size: 35px;
+ letter-spacing: 2px;
+  background-color: #ec4016;
+  background-size: 80px;
+  outline: none;
+  border-width: 0;
+  position: relative;
+  top: -80px;
+  left: 2250px;
+  color: white;
+  font-weight: bold;
+}
+.button-large{
+  position: absolute;
+  margin-left: 1100px;
+  margin-top: -100px;
+  background-color: #e63a2e;
+  border-width: 0;
+  height: 95px;
+  width: 500px;
+  font-size: 35px;
+  font-weight: bold;
+  color: white;
+}
+.mango{
+  margin-left: 2250px;
+  margin-top: -110px;
+  height: 200px;
+  width: 200px;
+}
+.logo{
+  margin-top: 80px;
+  margin-left: 80px;
+  height: 130px;
+  width: 330px;
+}
+.hero-heading{
+  text-align: center;
+  margin-left: 700px;
+  margin-right: 700px;
+  margin-top: -10px;
+  line-height: 150px;
+  font-size: 160px;
+  color: #e6bb2e;
+}
